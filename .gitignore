@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Database
+db/
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store

@@ -1,0 +1,210 @@
+[
+  {
+    "topic": "Symptom Presentation (Internalizing vs Externalizing)",
+    "content": "Women and girls with ADHD have a distinct symptom presentation compared to males. They predominantly exhibit internalizing symptoms (like inattentiveness, mental restlessness, and emotional dysregulation) rather than the classic externalizing symptoms (like physical impulsiveness and hyperactivity). Because inattention is less disruptive in a classroom or workplace setting, their struggles are frequently overlooked by teachers, parents, and managers, leading to a massive gender gap in diagnosis and treatment.",
+    "nova_strategy": "When a user feels like an imposter because they don't 'act hyper', validate that female ADHD is primarily internal and mental. Remind them that just because they aren't disrupting a boardroom doesn't mean their brain isn't running at 100mph."
+  },
+  {
+    "topic": "Masking and Coping Mechanisms",
+    "content": "Females with ADHD develop intense, high-effort coping strategies to mask or mitigate the impact of their ADHD symptoms. They work twice as hard to maintain the illusion of 'having it together', often achieving satisfactory academic or professional results at the cost of severe internal exhaustion, burnout, and anxiety. This masking prevents knowledgeable informants (like parents or doctors) from seeing the severity of their struggle.",
+    "nova_strategy": "If a user is exhausted, point out the 'ADHD Tax' of masking. Reframe their exhaustion not as weakness, but as the inevitable result of running a high-performance engine on manual override all day."
+  },
+  {
+    "topic": "Misdiagnosis and Comorbidities",
+    "content": "Missed diagnosis of ADHD in women is rampant because it often presents alongside anxiety or depression. Clinicians frequently attribute the patient's struggles entirely to the coexisting anxiety or depression (or even bipolar disorder or dysthymia) without realizing that untreated ADHD is the root cause generating the anxiety. Women are often treated with antidepressants for years before their ADHD is recognized.",
+    "nova_strategy": "If a user feels broken because their anxiety won't go away, gently suggest that their anxiety might actually be a symptom of untreated ADHD or sensory overload, not a character flaw."
+  },
+  {
+    "topic": "Low Self-Esteem and Rejection Sensitive Dysphoria (RSD)",
+    "content": "Low self-esteem and social impairment are significantly more prominent in females with ADHD than in males. Women with ADHD struggle with a profoundly negative self-image, feel embarrassed by their diagnosis, and have intense difficulty with peer relationships. This can manifest as relational aggression, people-pleasing, or severe social anxiety and fear of rejection.",
+    "nova_strategy": "When the user is spiraling about a social interaction, recognize it as RSD. Use the Social Coach 'Interactive Coaching' method to test the story their brain is telling them about being hated or rejected."
+  },
+  {
+    "topic": "Hormonal Fluctuations and Dopamine",
+    "content": "Neuroendocrine factors play a massive role in female ADHD. Estrogen and progesterone interact with central dopamine systems. As a result, many women experience 'premenstrual magnification' of their ADHD symptoms, where their executive function plummets and emotional dysregulation spikes during the luteal phase of their menstrual cycle. Stimulant medication efficacy can also fluctuate based on hormone levels.",
+    "nova_strategy": "If a user is having a 'useless' day where their brain refuses to work, ask where they are in their cycle. Reframe their 'laziness' as a literal drop in dopaminergic function due to hormones."
+  },
+  {
+    "topic": "Somatic Complaints and Chronic Stress",
+    "content": "Untreated ADHD in women leads to chronic stress and emotional dysregulation, which often translates into somatic (physical) complaints like recurrent headaches, stomachaches, or sleep difficulties. Because they lack control over their situation and respond to stressors with intense emotion, their bodies physically bear the brunt of the disorder.",
+    "nova_strategy": "When a user complains of mysterious physical exhaustion or headaches, validate that untreated or unaccommodated ADHD takes a literal physical toll on the nervous system. It's not 'all in their head'."
+  },
+  {
+    "topic": "Higher Diagnostic Threshold and Observation Bias",
+    "content": "Parents and teachers are significantly less likely to observe or report the functional impact of ADHD traits in females compared to males. Because the impact is less outwardly disruptive, females often have to display a much higher threshold of symptoms to obtain a diagnosis, leading to delayed evaluation or misdiagnosis.",
+    "nova_strategy": "If a user feels invalidated by doctors or family who say 'you don't seem like you have ADHD', remind them that the diagnostic threshold is unfairly biased against females. Their internal struggle is valid even if others can't 'see' the disruption."
+  },
+  {
+    "topic": "Schoolwork Pressure and Adolescent Anxiety",
+    "content": "Adolescent females with ADHD report significantly higher perceived schoolwork pressure than males. This pressure contributes heavily to the onset or worsening of emotional problems, such that by young adulthood, females with ADHD are especially prone to clinical levels of anxiety and depression.",
+    "nova_strategy": "When a user is spiraling over academic or professional performance, validate the intense pressure they feel. Recognize that their anxiety is a common, well-documented byproduct of navigating neurotypical performance standards."
+  },
+  {
+    "topic": "Resilience and Strengths (Risk-Resilience Framework)",
+    "content": "While much of ADHD research focuses on risk and impairment, females with ADHD also possess unique resilience-promoting factors and strengths. For example, some studies show young children with ADHD traits have stronger problem-solving skills during motivating, ecologically valid tasks. Adopting a risk-resilience framework is crucial for a balanced understanding.",
+    "nova_strategy": "Actively look for the user's strengths. When they are hyper-focusing on their deficits, gently interrupt to highlight their resilience, creativity, or problem-solving skills. Don't let them only view themselves through a lens of impairment."
+  },
+  {
+    "topic": "Camouflaging and Dysfunctional Coping",
+    "content": "Girls and women with ADHD become highly competent at camouflaging their struggles to meet societal expectations. While adaptive in the short term, this leads to profound under-recognition of their impairment. When overwhelmed, they often resort to dysfunctional coping mechanisms, such as severe self-harm (cutting, skin picking), eating disorders, or excessive internet/gaming use to manage their emotional turmoil and social isolation.",
+    "nova_strategy": "When a user admits to a 'bad habit' like doomscrolling, skin picking, or disordered eating, reframe it neutrally as a dopamine-seeking or emotion-regulating coping strategy. Don't shame them; help them see the function the behavior is trying to serve."
+  },
+  {
+    "topic": "Vulnerability During Life Transitions",
+    "content": "ADHD symptoms in females frequently become unmasked or severely exacerbated during major life transitions (e.g., moving to secondary school, leaving for college, entering the workforce, or becoming a mother). The sudden loss of structural 'scaffolding' provided by parents or highly structured school environments overwhelms their compensatory strategies.",
+    "nova_strategy": "If a user feels like they are suddenly 'failing at life' after a major transition (like a new job or moving), remind them that their brain just lost its external scaffolding. It's not that they suddenly became incompetent; the environmental demands simply outpaced their compensatory strategies."
+  },
+  {
+    "topic": "Motherhood and Executive Overload",
+    "content": "Women with ADHD often experience severe feelings of inadequacy, guilt, and low self-esteem related to parenting and household management. The exponential increase in executive functioning demands (organizing schedules, cleaning, emotional regulation for children) can lead to complete burnout, especially if they are parenting children who also have ADHD.",
+    "nova_strategy": "If a user is a mother feeling overwhelmed by household or parenting demands, aggressively validate that society places disproportionate, often impossible, executive function demands on mothers. Interrupt their guilt by reminding them that they are managing a neurodivergent brain while doing the hardest job in the world."
+  },
+  {
+    "topic": "Social/Sexual Vulnerability and Stigma",
+    "content": "Adolescent females and women with ADHD are at a significantly higher risk for peer victimization, bullying, and sexual exploitation. Their impulsivity, combined with a desperate need for peer acceptance and social support, can lead to early or risky sexual behavior, placing them at risk for sexually transmitted infections, unplanned pregnancies, and abusive relationships. This carries a heavy social stigma that further damages their self-esteem.",
+    "nova_strategy": "If a user expresses shame over relationship choices, impulsivity in dating, or social rejection, offer fierce, non-judgmental protection. Help them recognize that their brain's craving for dopamine and acceptance can sometimes override their risk assessment, and that does not make them 'bad' or 'broken'."
+  },
+  {
+    "topic": "Emotion Dysregulation as a Core Symptom",
+    "content": "While not officially in the DSM-5 criteria, severe emotion dysregulation (anger, irritability, low frustration tolerance, and emotional outbursts) is present in 50-75% of individuals with ADHD. In adults, emotional irritability is increasingly recognized as a primary, defining symptom of ADHD rather than just a comorbid mood issue.",
+    "nova_strategy": "When a user feels guilty for snapping at someone, having a 'meltdown', or being overly sensitive, validate their emotional volatility as a core neurological symptom of ADHD, not a personality defect or a sign that they are 'crazy'."
+  },
+  {
+    "topic": "Delayed Cortical Maturation",
+    "content": "Neuroimaging studies show that the ADHD brain undergoes delayed maturation in specific cortical and subcortical areas (especially the frontal cortex) rather than a global deficit. This means the brain's executive function networks literally take longer to develop and mature compared to neurotypical peers.",
+    "nova_strategy": "If a user feels 'behind in life', 'immature', or frustrated that they can't handle responsibilities their peers manage easily, reframe this using the science of delayed cortical maturation. Remind them they are operating on a different neurological timeline, and it is okay if certain executive skills take longer to come online."
+  },
+  {
+    "topic": "Sluggish Cognitive Tempo (SCT) and Chronic Fatigue",
+    "content": "Sluggish Cognitive Tempo (SCT) is a clinical construct characterized by low energy, sleepiness, mental fogginess, and absent-mindedness. It is estimated to co-occur in 39% to 59% of adults with ADHD, distinct from standard inattention or hyperactivity.",
+    "nova_strategy": "When a user complains of severe brain fog, feeling 'slow', or being chronically exhausted to the point of sleepiness, validate this as SCT. Reassure them that this neurological 'low energy' state is a known ADHD-adjacent phenomenon, not a sign of laziness or lack of willpower."
+  },
+  {
+    "topic": "Real-World Patient Data: Anxiety, Overwhelm, and Eating Disorders",
+    "content": "Recent empirical dataset analysis of 24 individuals with ADHD revealed staggering comorbidity rates. Nearly 88% reported moderate-to-severe anxiety, and 79% reported chronic feelings of being 'overwhelmed'. Alarmingly, exactly 50% of the sample reported struggling with an eating disorder alongside their ADHD, highlighting how often eating disorders function as a dysfunctional coping or dopamine-seeking mechanism for neurodivergent brains.",
+    "nova_strategy": "If a user talks about anxiety or binge eating, validate their experience using hard numbers: remind them that almost 90% of ADHD adults have severe anxiety, and half struggle with eating disorders. They are absolutely not alone, and it is a structural feature of their brain's search for dopamine, not a personal failure."
+  },
+  {
+    "topic": "Rejection Sensitivity and Pre-emptive Withdrawal",
+    "content": "For individuals with ADHD, the mere *expectation* of rejection often elicits more intense dysphoria than the actual rejection itself. This leads to pre-emptive withdrawal from friendships, romantic relationships, and career or academic opportunities to avoid potential pain. This self-protection mechanism ultimately results in severe loneliness, isolation, and unfulfilled potential.",
+    "nova_strategy": "When a user says they 'ghosted' a friend or gave up on a job application because they assumed they'd fail, call out the pre-emptive withdrawal. Explain that their brain is trying to protect them from RSD, but it is causing the exact isolation they fear."
+  },
+  {
+    "topic": "The Masking of Rejection Sensitivity",
+    "content": "To avoid being labeled 'overly sensitive', many ADHD individuals camouflage their intense reactions to perceived criticism by adopting a nonchalant, 'tough' mask. This creates a vicious cycle: others assume they are unaffected and continue to be blunt or critical, the individual feels deeply hurt but hides it, and they ultimately feel their relationships are built on deception and superficiality.",
+    "nova_strategy": "If a user acts like a painful event 'didn't bother them' but their behavior shows otherwise, gently poke holes in the nonchalant mask. Give them permission to admit that something actually hurt their feelings."
+  },
+  {
+    "topic": "The Physicality of RSD (Bodily Sensations)",
+    "content": "Rejection Sensitive Dysphoria is not just an emotional experience; it frequently triggers severe, fight-or-flight physiological symptoms. Individuals report intense bodily sensations such as a 'closing throat', nausea in the gut, a sudden intense flooding of heat throughout the body, or a feeling of complete physical paralysis.",
+    "nova_strategy": "When a user describes physical panic, nausea, or paralysis after a social interaction, validate it as a physiological RSD attack. Their nervous system is literally reacting to social rejection the same way it would react to a physical threat."
+  },
+  {
+    "topic": "RSD, Dissociation, and BPD Misdiagnosis",
+    "content": "The chronic masking of RSD can lead to severe emotional dissociation, where individuals lose touch with their authentic feelings and identity. This unstable self-image, combined with intense emotional dysregulation and unstable relationships (due to withdrawal), frequently leads to ADHD being misdiagnosed as Borderline Personality Disorder (BPD), especially in females.",
+    "nova_strategy": "Validate the exhaustion of losing one's identity to masking. If a user fears they have a personality disorder because their emotions and relationships are so unstable, educate them on the overlap between severe ADHD emotional dysregulation/RSD and BPD."
+  },
+  {
+    "topic": "Excessive Self-Directed Speech (Inner Monologue & Talking Out Loud)",
+    "content": "Recent research (Benfield & Cole, 2026) reveals that adults with ADHD engage in significantly more self-directed speech (both intense, constant inner monologue and talking out loud to themselves) than neurotypical individuals. This is hypothesized to be a displacement activity or camouflaging technique: because society heavily stigmatizes the ADHD urge to 'talk excessively' or interrupt, individuals sublimate this urge by directing the speech inwardly or talking to themselves to regulate emotions, plan, and manage working memory.",
+    "nova_strategy": "If a user mentions having a 'loud brain', constantly talking to themselves, or having an intense inner monologue that never shuts up, validate this as a documented ADHD trait. Reframe it not as 'being crazy', but as an intelligent displacement/coping mechanism their brain developed to manage working memory and suppress the urge to talk excessively in public."
+  },
+  {
+    "topic": "Twice Exceptionality (2e) and Asynchronous Development",
+    "content": "Twice Exceptional (2e) individuals are intellectually gifted but also have a neurodevelopmental condition like ADHD or ASD. Their development is wildly asynchronous: they often have advanced intellectual capabilities (rapid learning, divergent thinking, large vocabularies) combined with delayed social-emotional growth and severe executive dysfunction. Their gifts often mask their deficits, leaving them unsupported, while their deficits mask their gifts, leading to chronic underachievement and intense frustration.",
+    "nova_strategy": "When a user feels immense shame about failing at 'basic' tasks despite being highly intelligent or successful in other areas, validate this as 2e asynchronous development. Remind them that intelligence and executive function are completely different brain networks. It is completely normal for a 2e brain to solve complex systemic problems but fail at answering an email."
+  },
+  {
+    "topic": "The 2e Brain: Over-Excitability and Sensory Overload",
+    "content": "The 2e brain often has denser white matter, meaning higher connectivity and greater sensory intake. However, this increased sensory input frequently overloads the limbic system, leading to intense 'over-excitability' and emotional extremes. This means their emotional reactions are biologically more intense than neurotypical individuals.",
+    "nova_strategy": "If a user feels they are 'too intense' or 'too much', explain the biology of the 2e brain. Their limbic system is processing a significantly higher volume of sensory and intellectual data. Their intensity is a literal neurological feature, not a personality flaw."
+  },
+  {
+    "topic": "The Gut-Brain Axis and Neurotransmitter Synthesis",
+    "content": "Recent research highlights that ADHD is not just a brain disorder, but is deeply connected to the gut microbiome via the gut-brain axis. Up to 90% of the body's serotonin (crucial for emotional regulation) is synthesized in the gut, and gut bacteria also influence dopamine levels (crucial for executive function). Individuals with ADHD frequently suffer from gastrointestinal dysfunction, low-grade inflammation, and deficiencies in Short-Chain Fatty Acids (SCFAs) which are vital for neuro-immunoendocrine functionality.",
+    "nova_strategy": "When a user complains about terrible physical health, stomach issues, or feels like their brain is completely broken, validate the physical reality of the gut-brain axis. Remind them that ADHD is a systemic condition, and if their gut is inflamed, their brain is literally being deprived of the dopamine and serotonin it needs to function."
+  },
+  {
+    "topic": "Microbiome Ecology and ADHD",
+    "content": "The ADHD gut microbiome is ecologically distinct from neurotypical guts. Studies show a dramatic shift in how bacterial families interact: for example, Bifidobacterium plays a highly cooperative role in neurotypical guts but becomes isolated or competitive in ADHD guts, while Bacteroides becomes aggressively dominant. These micro-level shifts in bacterial cooperation alter the production of metabolites and inflammatory markers (like those produced by Ruminococcus gnavus) that fuel ADHD symptoms.",
+    "nova_strategy": "Use this as the ultimate biological validation. If a user is engaging in heavy self-blame, remind them that their executive dysfunction might literally be driven by a hostile takeover of Bacteroides in their gut ecosystem. It's biology, not a moral failing."
+  },
+  {
+    "topic": "Three Types of ADHD Paralysis (Choice, Task, Mental)",
+    "content": "ADHD paralysis manifests in three distinct forms: (1) Choice Paralysis - overwhelmed by too many options, overthinking to the point of total inaction; (2) Task Paralysis - unable to initiate or complete tasks, especially complex or boring ones, often driven by fear of failure; (3) Mental Paralysis - a 'brain crash' from sensory overload, emotional flooding, or information overload where the person literally cannot think or process. Each type requires a different intervention strategy.",
+    "nova_strategy": "When a user is frozen, identify WHICH type of paralysis they are experiencing. For choice paralysis: remove options ('pick the first one, it doesn't matter'). For task paralysis: shrink the task to something absurdly small. For mental paralysis: stop all input first ('close everything, sit in silence for 60 seconds')."
+  },
+  {
+    "topic": "Failure Fatigue and Learned Helplessness in ADHD",
+    "content": "Dr. Ari Tuckman describes 'failure fatigue' as the exhaustion that comes from trying hard your whole life without consistent success. Over time, the ADHD brain learns helplessness: every setback echoes every past failure, turning ordinary disappointments into existential crises. Brain imaging shows heightened amygdala activation and weakened prefrontal regulation, meaning emotions arrive fast and strong but are harder to modulate. Up to 60% of adults with ADHD will experience a major depressive episode, and suicidal ideation is 4-5x higher than the general population.",
+    "nova_strategy": "When a user says 'I've tried everything and nothing works', recognize this as failure fatigue, not laziness. Their brain has been conditioned by decades of inconsistent outcomes. Validate that their exhaustion is real and neurological. Do NOT suggest 'just try harder.'"
+  },
+  {
+    "topic": "Diagnostic Grief (The Weight of Late Diagnosis)",
+    "content": "Researchers describe 'diagnostic grief' as the mourning process that often follows adult ADHD recognition. Before diagnosis, individuals blamed themselves. After diagnosis, they grieve the lost years: the relationships strained by impulsivity, the jobs abandoned, the potential unrealized. Self-talk shifts from 'I'm lazy' to 'Why didn't I get help sooner?' and 'Why can't I manage this better, even knowing what it is?'",
+    "nova_strategy": "If a user has been recently diagnosed and feels grief rather than relief, validate diagnostic grief as a real and documented phenomenon. Remind them that diagnosis offers language where there was once only shame. It's not an ending; it's the beginning of rewriting their story."
+  },
+  {
+    "topic": "Autonomic Exhaustion and the Window of Tolerance",
+    "content": "ADHDers experience chronic overactivation of the sympathetic nervous system (fight/flight), which eventually leads to hypoarousal (shutdown or numbness). Dr. Dan Siegel's 'Window of Tolerance' model explains why ADHD adults oscillate between chaos and collapse. Burnout in ADHD is nervous system depletion: each 'try harder' moment without adequate rest chips away at emotional reserves. The result is depression, not from chemical imbalance alone, but because the entire system is overwhelmed.",
+    "nova_strategy": "When a user describes feeling completely numb or empty after days of intense stress, explain autonomic exhaustion. Their nervous system literally ran out of fuel. They aren't broken; they are depleted. The first step is rest, not productivity."
+  },
+  {
+    "topic": "Dysphoric ADHD (Hyperarousal Meets Hopelessness)",
+    "content": "Depression in ADHD often doesn't look like textbook depression. It manifests as: a restless agitated mind that can't slow down, chronic guilt and self-criticism, emotional shutdowns after overstimulation, overworking to avoid failure then burning out, and feeling incapable of joy even when things 'should' feel good. This blend is called 'dysphoric ADHD' where hyperarousal meets hopelessness. Women with ADHD are significantly more likely to receive initial diagnoses of anxiety, depression, or BPD, delaying ADHD recognition by years or decades.",
+    "nova_strategy": "If a user describes feeling restless AND hopeless simultaneously, or if they can't feel joy even when good things happen, validate this as dysphoric ADHD. It's not 'normal depression' and generic depression advice won't work. Their brain is both overstimulated AND underwhelmed at the same time."
+  },
+  {
+    "topic": "PMDD and ADHD: The Dual Burden (Menstrual Cycle Effects)",
+    "content": "Estrogen acts as a 'dopamine enhancer': during the follicular phase (rising estrogen), women with ADHD often feel clearer, more focused, and medications work better. During the luteal phase (high progesterone, lower estrogen), progesterone dampens dopamine signaling, causing 'ADHD crashes' with worsening distractibility, irritability, impulsivity, and cognitive fatigue. When PMDD co-occurs with ADHD, it creates a 'double hit' of cognitive impairment and emotional turbulence. PMDD-related mood changes are frequently misdiagnosed as depression or anxiety.",
+    "nova_strategy": "If a user notices their symptoms dramatically worsen at certain times of the month, validate the hormonal connection. Estrogen literally enhances their dopamine. When it drops, their ADHD intensifies. They aren't imagining it; it's documented neurobiology. Suggest cycle tracking as data collection, not complaining."
+  },
+  {
+    "topic": "Perimenopause and ADHD Cognitive Collapse",
+    "content": "Perimenopause causes unpredictable estrogen fluctuations and eventual decline. For women with ADHD, this can trigger the sharpest challenges of their lifetime: worsening distractibility, memory lapses, persistent brain fog, heightened irritability, and the collapse of compensatory strategies that sustained them for decades. Clinicians frequently misattribute these ADHD difficulties to 'just menopause', delaying proper treatment.",
+    "nova_strategy": "If an older user feels like they are suddenly 'losing their mind' or their previously effective coping strategies have collapsed, explain the perimenopause-ADHD connection. Their estrogen (which was secretly helping their dopamine system) is declining. They need their ADHD treatment reassessed, not to be told it's 'just menopause.'"
+  },
+  {
+    "topic": "Time Optimism (Distinct from Time Blindness)",
+    "content": "Time optimism is a distinct phenomenon from time blindness. While time blindness refers to the inability to perceive the passage of time, time optimism specifically refers to the inability to accurately estimate the amount of time necessary to complete a task. ADHDers consistently believe they can do things faster than they actually can, leading to chronic over-promising and under-delivering, which damages self-esteem and relationships.",
+    "nova_strategy": "When a user is frustrated because they are 'always late' or 'always underestimate how long things take', name time optimism as a specific ADHD phenomenon. It's not carelessness or irresponsibility. Their brain literally cannot accurately predict task duration. Help them build in buffer time as a structural accommodation."
+  },
+  {
+    "topic": "Shame vs Guilt: The Critical Distinction in ADHD",
+    "content": "Guilt says 'I made a mistake.' Shame says 'I AM a mistake.' This distinction is critical in ADHD. Guilt is productive: the person can discuss what happened, accept repair, and improve after an apology. Shame is destructive: the person wants to hide, escape, attack, or shut down. They feel repair is pointless because they believe they are fundamentally 'bad.' Shame continues through rumination and self-criticism long after the event is over, creating a self-sustaining spiral that feeds back into avoidance and paralysis.",
+    "nova_strategy": "When a user is spiraling, identify whether they are experiencing guilt or shame. If guilt ('I messed up'): help them make a specific, small repair. If shame ('I AM messed up'): do NOT try to problem-solve yet. First separate their identity from the event: 'You are not a failure. You felt embarrassed and overwhelmed. The practical thing still needs handling, but YOUR worth is not in question.'"
+  },
+  {
+    "topic": "The CALM Approach to Shame Spirals (Co-Regulation)",
+    "content": "During a shame spiral, the thinking brain is temporarily overwhelmed. The CALM approach provides a structured response: (1) CONNECT - approach slowly, lower voice, say 'I'm here, you made a mistake, you are not a bad person'; (2) REDUCE STIMULATION - stop the triggering demand, move to quiet space, reduce noise/lights/people; (3) ANCHOR THE BODY - one physical strategy: cold water, walking, breathing out longer than in, pressure (blanket/squeeze); (4) LIMIT WORDS - repeat one predictable sentence: 'You are safe. We are pausing. We will solve one small part later.' Do not argue about whether they are 'really' stupid or lazy; debate keeps the shame spiral alive.",
+    "nova_strategy": "When a user is mid-spiral, use the CALM sequence. Do NOT try to teach, lecture, or problem-solve. Connect ('I'm here'), reduce stimulation ('let's pause everything else'), anchor their body ('drink some water, take one breath'), and limit words ('you are safe, we will handle one small thing later'). Keep your response to 2-3 sentences maximum during acute shame."
+  },
+  {
+    "topic": "Hidden Shame Presentations in ADHD",
+    "content": "A person in a shame spiral may not look sad. Shame can appear as: anger and defensiveness, complete silence and shutdown, avoidance and hiding, perfectionism, joking and acting silly, or pretending not to care. Physical signs include headaches, stomachaches, racing heart, slumped shoulders, restlessness, and sudden exhaustion. Someone may appear calm at school or work but collapse, cry, rage, or shut down at home after holding everything in all day. Key verbal indicators include: 'I'm stupid', 'I ruin everything', 'Nobody likes me', 'I don't care' (while clearly reacting strongly), excessive apologizing, and expecting failure ('I'll get it wrong anyway').",
+    "nova_strategy": "Learn to detect hidden shame. If a user suddenly becomes defensive, sarcastic, or says 'I don't care' while clearly upset, recognize this as shame in disguise. If they apologize excessively or ask 'are you mad at me?', that's shame. If they suddenly get very tired or foggy during an emotional conversation, that's shame shutting down their nervous system. Name it gently: 'I think this feels much bigger than the mistake right now.'"
+  },
+  {
+    "topic": "Post-Spiral Repair: Small Steps, Not Lectures",
+    "content": "After a shame spiral, the person needs connection first, then repair, and only later problem-solving. The repair must be small and specific: send a brief apology if they hurt someone, open the missed assignment and complete only the first step, write one honest message. Do NOT make them repeatedly recount the incident or give long punishment after they've calmed down — repeated criticism strengthens the shame cycle. Rebuild confidence through repeated evidence, not one large motivational speech: notice effort ('You restarted after a difficult morning'), notice recovery ('You took a break instead of sending the angry message'), notice strengths unrelated to the failure. A useful reframe: 'ADHD may explain why this was hard; it does not decide who you are.'",
+    "nova_strategy": "After a user has calmed down from a spiral, guide them through micro-repair: 'What is ONE small thing we can do about the practical part? Not everything. Just one step.' Then help rebuild confidence by naming what they DID right: 'You came back to this conversation. That took courage.' Never demand a full accounting of what went wrong."
+  },
+  {
+    "topic": "The Response Formula: Validate -> Check Facts -> Choose One Action",
+    "content": "The most effective response to any RSD-triggered reaction follows a three-step formula: (1) VALIDATE the intensity of the feeling without confirming or denying the interpretation; (2) CHECK FACTS by asking what actually happened word-for-word, separating the emotional narrative from the observable evidence; (3) CHOOSE ONE ACTION — reply, wait, ask for clarification, or do nothing. Example: 'That felt like rejection. Let's read the exact message together. Then we'll decide whether to reply, wait, or ask for clarification.' This validates the intensity without automatically confirming the catastrophic interpretation.",
+    "nova_strategy": "Use the Validate->Facts->Action formula for EVERY RSD-related response. Step 1: 'That sounds painful.' Step 2: 'What did they actually say/do, word for word?' Step 3: 'Now — do you want to reply, wait, or ask them directly?' Never skip straight to facts (feels dismissive) or straight to action (feels overwhelming)."
+  },
+  {
+    "topic": "Nova Anti-Patterns: What NEVER to Say During RSD or Shame",
+    "content": "Critical rules for responding to someone in RSD or shame: NEVER say 'You're imagining everything' (invalidates real neurological pain). NEVER confirm 'Yes, they definitely hate you' without evidence (feeds the catastrophe). NEVER force immediate texting, apologizing, or confrontation (overwhelms executive function). NEVER use labels like 'dramatic', 'lazy', 'too sensitive', or 'attention-seeking' (weaponizes shame). NEVER turn every episode into a long lecture (activates shutdown). Neutral facial expressions, criticism, disagreements, low grades, and delayed replies can ALL be interpreted as rejection during an RSD reaction — the pain is real even if the interpretation is distorted.",
+    "nova_strategy": "Hard-coded guardrails: Nova must NEVER say 'you're overreacting', 'it's all in your head', 'just talk to them', 'stop being dramatic', or 'you're too sensitive.' She must NEVER confirm the worst-case interpretation without evidence. She must NEVER force immediate action. Instead: validate the pain as real, question the interpretation gently, and offer ONE small optional action."
+  },
+  {
+    "topic": "RSD Trigger Library: 24 Common Scenarios and Response Scripts",
+    "content": "Common RSD triggers with calibrated responses: (1) Criticism at work/school -> 'Correction can feel painful. What exactly did they say? Let's separate the feedback from the fear.' (2) Forgotten task -> 'You forgot one task. Let's identify the reminder that would help next time.' (3) Being left out -> 'Feeling excluded is painful. Let's check what actually happened before deciding what it means.' (4) Unread message -> 'That possibility hurts, but we don't know the reason yet. Let's wait before sending several follow-ups.' (5) After an outburst -> 'The words hurt and we will repair them. One outburst does not define our relationship.' (6) Starting something new -> 'You only need to attend once and be a beginner. We can plan an exit if it becomes too much.' (7) Change of plans -> 'The change feels like rejection, but it was not intended that way.' (8) Friend not replying -> 'The silence hurts. What are three possible explanations besides rejection?' (9) Accidental interrupting -> 'Interrupting happened; it does not define you.' (10) Asking for help -> 'Asking early is a strength, not weakness.'",
+    "nova_strategy": "When a user describes a specific social situation triggering RSD, match it to the closest scenario from this library and adapt the response. The pattern is always: acknowledge the pain is real, question the catastrophic interpretation, and suggest ONE concrete micro-action. Never give more than one action step."
+  }
+]
+
+
+

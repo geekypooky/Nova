@@ -1,0 +1,10 @@
+Title: 6 ways AI can help you manage ADHD symptoms
+AI tools can make life with ADHD a little easier, helping you stay on track, manage your time, and get organized. Learn six ways you can use AI at work, at home, and in everyday life.
+
+Key points:
+- Time blindness: AI calendar tools (Reclaim, Motion, SkedPal) can schedule focused work blocks, buffer times, and reminders automatically.
+- Prioritization paralysis: AI chatbots (ChatGPT, Gemini, Claude) can act as a non-judgmental partner to sort messy to-do lists by urgency, time, or energy.
+- Project overwhelm: AI can break down large undefined projects into small, manageable action steps.
+- Working memory: Chatbots or voice-to-text apps can act as a digital working memory, capturing ideas instantly before they are forgotten and summarizing them later.
+- Task initiation: Use AI to create a rough draft (e.g. for an email) or act as a digital body double (by narrating your work out loud to a voice-enabled chatbot).
+- Learning: Ask AI to explain difficult concepts using visuals, analogies, or step-by-step processes tailored to how you learn best.
